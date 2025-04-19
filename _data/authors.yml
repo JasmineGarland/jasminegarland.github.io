@@ -1,0 +1,10 @@
+jasmine:
+  username: jasmine
+  name: Jasmine Garland
+  url_full: False
+  url: False
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  facebook: ghost
+  twitter: tryghost
+  cover: False
