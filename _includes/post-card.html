@@ -1,5 +1,4 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
-
 {% for post in paginator.posts %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
         {% if post.cover %}

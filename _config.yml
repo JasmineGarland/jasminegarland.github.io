@@ -2,6 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
+paginate_path: "/blog/page:num/"
 language: 'en-uk'
 words_per_minute: 200
 
@@ -12,7 +13,7 @@ baseurl: /
 title: Jasmine Garland
 description: Jasmine Garland's Blog
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/profile.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created

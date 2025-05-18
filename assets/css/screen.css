@@ -112,6 +112,7 @@ body {
     color: #fff;
     background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
+    background-position: 0% 60%;
 }
 
 .site-header:before {
@@ -264,12 +265,15 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0;
     padding: 10px 12px;
     color: #fff;
-    opacity: 0.8;
+    opacity: 0.7;
+    font-weight: bold;
+    transition: text-shadow 1000ms ease;
 }
 
 .nav li a:hover {
     text-decoration: none;
     opacity: 1;
+    text-shadow: 0px 0px 1px black;
 }
 
 .site-nav-right {
