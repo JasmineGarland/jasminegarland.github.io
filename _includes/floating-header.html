@@ -10,15 +10,10 @@
     <span class="floating-header-divider">&mdash;</span>
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">
-        <div class="floating-header-share-label">Share this {% include point.html %}</div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
-            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
-            {% include twitter.html %}
-        </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
-            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
-            {% include facebook.html %}
-        </a>
+        <div class="floating-header-share-item">
+            <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+            <script type="IN/Share" data-url="{{ site.production_url }}{{ page.url | remove_first: '/' }}"></script>
+        </div>
     </div>
     <progress class="progress" value="0">
         <div class="progress-container">

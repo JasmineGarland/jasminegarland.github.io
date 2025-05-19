@@ -70,7 +70,7 @@ body {
 
 /* Centered content container blocks */
 .inner {
-    margin: 0 auto;
+    margin: 2% auto;
     max-width: 1040px;
     width: 100%;
 }
@@ -1456,6 +1456,7 @@ Usage (In Ghost editor):
     justify-content: flex-end;
     align-items: center;
     padding-left: 2%;
+    padding-right: 2%;
     font-size: 1.3rem;
     line-height: 1;
 }
@@ -1470,6 +1471,7 @@ Usage (In Ghost editor):
     width: auto;
     height: 16px;
     fill: #fff;
+    margin-top: -2px;
 }
 
 .floating-header-share-label {
@@ -1874,7 +1876,7 @@ Usage (In Ghost editor):
 .site-footer {
     position: relative;
     padding-top: 20px;
-    padding-bottom: 60px;
+    padding-bottom: 20px;
     color: #fff;
     background: color(var(--darkgrey) l(-15%));
 }

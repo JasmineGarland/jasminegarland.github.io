@@ -4,12 +4,11 @@
     </div>
     <div class="site-nav-right">
         <div class="social-links">
-	<!-- TODO add linkedin and github -->
-            {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
+            {% if site.github %}
+                <a class="social-link social-link-gh" href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">{% include github.svg %}</a>
             {% endif %}
-            {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+            {% if site.linkedin %}
+                <a class="social-link social-link-li" href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">{% include linkedin.svg %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}
