@@ -16,27 +16,26 @@ Currently, she is serving as an academic guest at ETH Zurich, collaborating with
 
 Before joining CU Boulder, Jasmine earned her undergraduate degree from Appalachian State University, where she conducted research on HVAC control systems. She was part of the Certification and Research Team at the Passive House Institute United States (PHIUS), contributing to building energy modeling software research and method development. Most recently, she spent two years at the National Renewable Energy Laboratory (NREL) in Golden, Colorado, specializing in data analytics and data modeling.
 
-<div style="float: right; margin: 24px 0 10px 20px; width: 250px;">
-  <!-- First image with caption -->
-  <figure style="margin: 0 0 20px 0; line-height: 1.2;">
-    <img src="assets/images/prisma.jpg" alt="Bear in forest" style="width: 100%; margin-bottom: 2px;">
-    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+<div style="float: right; margin: 24px 0 10px 20px; width: 250px;">  <!-- First image with caption -->
+  <figure style="margin: 0 0 15px 0; line-height: 1.2;">
+    <img src="assets/images/prisma.jpg" alt="Bear in forest" style="width: 98%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
       Jasmine's cat Prisma
     </figcaption>
   </figure>
-
+  
   <!-- Second image with caption -->
-  <figure style="margin: 0 0 20px 0; line-height: 1.2;">
+  <figure style="margin: 0 0 15px 0; line-height: 1.2;">
     <img src="assets/images/r2r2r.jpg" alt="Bear climbing" style="width: 100%; margin-bottom: 2px;">
-    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+    <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
       Running R2R2R of the Grand Canyon
     </figcaption>
   </figure>
-
+  
   <!-- Third image with caption -->
-  <figure style="margin: 0; line-height: 1.2;">
+  <figure style="margin: 0 0 15px 0; line-height: 1.2;">
     <img src="assets/images/highlands.jpg" alt="Bear cub" style="width: 100%; margin-bottom: 2px;">
-    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+    <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
       Fast-packing the Scottish Highlands
     </figcaption>
   </figure>

@@ -6,25 +6,25 @@ layout: header_page
 
 <div style="float: right; margin: 10 px 0 13px 20px; width: 350px;">
   <!-- First image with caption -->
-  <figure style="margin: 0 0 20px 0; line-height: 1.2;">
+  <figure style="margin: 0 0 30px 0; line-height: 1.2;">
     <img src="assets/images/sch.png" alt="Bear in forest" style="width: 100%; margin-bottom: 2px;">
-    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+    <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
       Power Outage Forecasting Tool: Ohmward
     </figcaption>
   </figure>
 
 <!-- Second image with caption -->
-<figure style="margin: 0 0 20px 0; line-height: 1.2; margin-left: auto; text-align: right;">
+<figure style="margin: 0 0 30px 0; line-height: 1.2; margin-left: auto; text-align: right;">
   <img src="assets/images/bidirectional-2.jpeg" alt="Colorado Grid" style="width: 90%; margin-bottom: 2px;">
-  <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+  <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
     Studying the Bi-directional Impacts of Climate Change and the Power Sytem
   </figcaption>
 </figure>
 
 <!-- Third image with caption -->
-<figure style="margin: 0 0 20px 10%; line-height: 1.2; display: flex; flex-direction: column; align-items: flex-end;">
+<figure style="margin: 0 0 30px 10%; line-height: 1.2; display: flex; flex-direction: column; align-items: flex-end;">
   <img src="assets/images/bidirectional.jpeg" alt="Highlands landscape" style="width: 100%; margin-bottom: 2px;">
-  <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px; width: 100%;">
+  <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px; width: 100%;">
     Machine Learning for Pattern Recognition
   </figcaption>
 </figure>
