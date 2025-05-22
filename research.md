@@ -2,7 +2,7 @@
 layout: header_page
 ---
 
-## Research Overview
+## **Research Overview**
 
 <div style="float: right; margin: 10 px 0 13px 20px; width: 350px;">
   <!-- First image with caption -->
@@ -17,7 +17,7 @@ layout: header_page
 <figure style="margin: 0 0 30px 0; line-height: 1.2; margin-left: auto; text-align: right;">
   <img src="assets/images/bidirectional-2.jpeg" alt="Colorado Grid" style="width: 90%; margin-bottom: 2px;">
   <figcaption style="font-size: 0.62em; text-align: center; color: #666; margin-top: 2px;">
-    Studying the Bi-directional Impacts of Climate Change and the Power Sytem
+    The Bi-Directional Impacts of Climate Change and the Power Sytem
   </figcaption>
 </figure>
 
@@ -63,17 +63,15 @@ Research updates and publications are available on this page. You can view my [O
 
 
 
-## Publications  
+## **Publications**
 _Note: A "\*" indicates an undergraduate student I mentored._
 
- **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.*  
-   *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
+ **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
 
  **Garland, J.**, Baker, K., & Livneh, B. (2024). *Exploring the importance of Environmental Justice variables for predicting Energy Burden in the Contiguous United States.*  
    *Cell Press: iScience* (accepted).
 
- **Garland, J.**, Windham, A., & Richardson, P. (2024). *Case Study Evaluation of HVAC Energy Usage Resulting from a Room Usage Calendar-based HVAC Scheduling Tool.*  
-   *The International Journal of Energy Management*, 6(4). ISSN: 2643-6787.
+ **Garland, J.**, Windham, A., & Richardson, P. (2024). *Case Study Evaluation of HVAC Energy Usage Resulting from a Room Usage Calendar-based HVAC Scheduling Tool.* *The International Journal of Energy Management*, 6(4). ISSN: 2643-6787.
 
 **Garland, J.**, Baker, K., & Livneh, B. (2023). *Weather-Induced Power Outage Prediction: A Comparison of Machine Learning Models.*  
    *2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, 1–6. [https://doi.org/10.1109/SmartGridComm57358.2023.10333953](https://doi.org/10.1109/SmartGridComm57358.2023.10333953)
