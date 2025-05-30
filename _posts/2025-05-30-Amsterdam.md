@@ -1,0 +1,156 @@
+---
+layout: post
+current: post
+cover:  assets/images/ned_blog/GPTempDownload.jpeg
+title: "Water, Wind, and Wonder: A Few Days in the Netherlands"
+date: 2025-05-30 12:00:00
+tags: []
+class: post-template
+subclass: 'post'
+author: Jasmine
+---
+
+To begin my year in Europe, I made my first stop in the Netherlands — a country that doesn’t just coexist with water but choreographs its movements. My visit was more than a picturesque layover; it was an introduction to a place where ingenuity, community, and landscape are tightly interwoven.
+
+### Living with Water: Amsterdam’s Engineered Beauty
+One of the first things you learn about the Netherlands is that it is, in many ways, a manufactured country. Much of the land lies below sea level, held in place by centuries of innovation: canals, polders, dikes, and dams. The Dutch don’t just live by the water — they live with it.
+This ingenuity was on full display during a morning rondvaart (canal cruise) through Amsterdam, where early light revealed the quiet functionality of the city’s layout. I happened to be aboard the Jonckvrouw (“Royal Lady”) — the same boat once ridden by King Willem-Alexander and Princess Beatrix during SAIL Amsterdam, a five-day maritime celebration held every five years. The canals aren’t just postcard material; they’re an essential part of an engineered system designed to control flooding, facilitate trade, and support urban life.
+The city itself rests on wooden piles driven deep into marshy ground — a quiet testament to human tenacity. Amsterdam’s architectural beauty is layered atop this infrastructure: rows of leaning grachtenhuizen (canal houses), narrow and tall to avoid historic property taxes once levied by width. There’s elegance, but also efficiency — a design that reflects a society used to working in harmony with its environment.
+
+<video width="600" controls>
+  <source src="assets/images/ned_blog/player_export.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+I wandered through the Jordaan district, where cobblestone streets and leafy canals host a mix of indie boutiques, galleries, and cozy corners. One of my favorite moments was a quiet afternoon in a traditional bruin café — Café ’t Papeneiland, which gained global fame after Bill Clinton visited for its appeltaart. Built in 1642, the building has always housed a small pub and living quarters. Legend has it that a secret Catholic church was once accessible via a tunnel starting in the café, during a time when Catholicism was banned. Bruin cafés — known for their dark wood interiors and tobacco-stained walls — began in the 19th century, when families opened parts of their homes as bars to earn extra income. Here, over strong coffee and apple pie, I watched locals pass by, and time seemed to slow, with history humming beneath everyday conversation.
+
+### Art, Identity, and the Rijksmuseum
+The Dutch are exceptional observers — of light, of detail, of daily life. Nowhere is this clearer than in the Rijksmuseum, where Rembrandt’s The Night Watch and Vermeer’s The Milkmaid seem to suspend time through precision and emotion. Dutch art doesn’t shout. It notices. It honors quiet dignity — a servant pouring milk, a merchant gazing through a window — and elevates the ordinary to the sublime.
+Even the museum’s layout reflects Dutch sensibilities: open, accessible, unpretentious, yet deeply curated. It’s a place where history breathes easily alongside beauty.
+
+<div style="display: flex; justify-content: space-between; margin: -29px 0px 30px 70px; width: 500%; max-width: 900px;">
+  <!-- First image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/canal.jpeg" alt="windmills" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Jordaan District trolls
+    </figcaption>
+  </figure>
+
+ <!-- Second image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/window.jpeg" alt="Grand Canyon" style="width: 95%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Architecture of the Rijksmuseum
+    </figcaption>
+  </figure>
+  
+ <!-- Third image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/church.jpeg" alt="Highlands" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ No building is allowed to be built taller than this church in old Amsterdam.
+    </figcaption>
+  </figure>
+</div>
+
+### From Windmills to Clogs: Countryside Encounters
+Outside the city, the northern countryside offered a different, yet equally captivating, glimpse into Dutch life. In Zaanse Schans, traditional windmills still turn beside the water, once used to pump land dry or grind grain. I visited a workshop where artisans carve klompen (wooden clogs) by hand — practical footwear that once allowed farmers to navigate marshy terrain. Today, they’re mostly symbolic, but their origins speak to a culture built around function and resilience.
+In Edam, I watched a traditional cheese-making demonstration and tasted young, creamy wheels as well as aged, complex varieties. The pride in preserving these foodways was palpable — a reminder that cuisine, like infrastructure, can serve as both heritage and adaptation.
+In Volendam, fishing boats bobbed in the harbor, and I sampled freshly smoked eel with onions and pickles — gerookte paling — a rich, salty dish served with quiet reverence for the sea and its seasons. Not far away, on the former island of Marken, houses are still painted zeewiergroen (seaweed green) — a practical color once used to protect wood from salt and storms. Marken is now connected to the mainland by a causeway — another example of the Netherlands’ enduring ability to reshape its geography.
+
+<div style="display: flex; justify-content: space-between; margin: -29px 0px 30px 70px; width: 500%; max-width: 900px;">
+  <!-- First image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/windmills.jpeg" alt="windmills" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Dutch windmills in Zaanse Schans
+    </figcaption>
+  </figure>
+
+ <!-- Second image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/clogs.jpeg" alt="Grand Canyon" style="width: 95%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Trying on traditional wooden clogs
+    </figcaption>
+  </figure>
+  
+ <!-- Third image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/greenhouses.jpeg" alt="Highlands" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+Green homes in Marken    </figcaption>
+  </figure>
+</div>
+
+### Tulips and Taste: A Country in Full Bloom
+Although I missed the peak of tulip season, tulpen were everywhere: painted on bikes, sold in street markets, tucked into shop windows. Their legacy — from 17th-century tulip mania to modern global exports — mirrors the Dutch themselves: pragmatic, playful, and grounded in care.
+That same spirit shows up in Dutch cuisine. While it may not dominate global headlines, it’s rich in comfort and history. I tried warm stroopwafels (thin waffles filled with caramel syrup), originally born of frugality in 18th-century Gouda, where bakers combined leftover crumbs into waffle dough and sandwiched them with spiced syrup. At Lanskroon — a 110-year-old family-run café — I tasted a traditional version that stayed true to its roots.
+I also sampled bitterballen (crispy, savory meat snacks) and traditional appeltaart — tender apples laced with cinnamon beneath a buttery crust, topped with whipped cream. At open-air cheese markets, wheels were stacked like artifacts, vendors dressed in traditional clothing, offering samples with pride. It felt like both a culinary experience and a celebration of place.
+
+
+<div style="display: flex; justify-content: space-between; margin: -29px 0px 30px 70px; width: 500%; max-width: 900px;">
+  <!-- First image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/apple.jpeg" alt="windmills" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Café ’t Papeneilands appeltaart
+    </figcaption>
+  </figure>
+
+ <!-- Second image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/bitterballen.jpeg" alt="Grand Canyon" style="width: 95%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Café ’t Papeneilands bitterballen
+    </figcaption>
+  </figure>
+  
+ <!-- Third image with caption -->
+  <figure style="margin: 0; line-height: 1.2; width: 32%;">
+    <img src="assets/images/ned_blog/waffles.jpeg" alt="Highlands" style="width: 100%; margin-bottom: 2px;">
+    <figcaption style="font-size: 0.55em; text-align: center; color: #666; margin-top: 2px;">
+ Lanskroon stroopwafel and Amsterdams papltje
+    </figcaption>
+  </figure>
+</div>
+
+### Shared Stories and New Friendships
+While in Amsterdam, I stayed at a hostel near Vondelpark, a green oasis filled with runners, artists, and families on bikes. The hostel added its own dimension of discovery — I met travelers from Wales, New Zealand, and Honduras. Over instant coffee and shared maps, we traded stories and bonded over mutual curiosity. The conversations were brief but bright, and reminded me how easily new connections can bloom on unfamiliar soil.
+
+### Lessons from a Low Country
+As someone who studies climate resilience and infrastructure systems, this trip felt like a living case study. The Netherlands isn’t just adapting to its environment — it’s shaping a relationship with it. Water is both threat and partner. History informs design. Technical expertise, environmental harmony, and cultural heritage are deeply intertwined here.
+From its waterways to its windmills, from its museums to its markets, the Netherlands is a living example of systems thinking at scale — beautiful, functional, and enduring. I felt inspired not just by what I saw, but by how it was made — and by the sense that a society committed to adapting can also be deeply committed to thriving.
+
+Yet even in all its brilliance, I sometimes felt a little out of place — a mountain soul wandering a flat, engineered landscape. I missed the pull of elevation, the quiet solidity of peaks on the horizon. Still, there was something grounding in being in a country that thinks in centuries and designs for futures it may never see.
+As I continue my journey, I carry these lessons with me — about how people and place shape one another. Ahead lies a different kind of geography — one that might feel a bit more like home.
+
+“_Denkend aan Holland \\
+zie ik breede rivieren \\
+traag door oneindig \\
+laagland gaan, \\
+rijen ondenkbaar \\
+ijle populieren \\
+als hooge pluimen \\
+aan den einder staan; \\
+en in de geweldige \\
+ruimte verzonken \\
+de boerderijen \\
+verspreid door het land, \\
+boomgroepen, dorpen, \\
+geknotte torens, \\
+kerken en olmen \\
+in een grootsch verband. \\
+de lucht hangt er laag \\
+en de zon wordt er langzaam \\
+in grijze veelkleurige \\
+dampen gesmoord, \\
+en in alle gewesten \\
+wordt de stem van het water \\
+met zijn eeuwige rampen \\
+gevreesd en gehoord._” \\
+- Herinnering aan Holland, Hendrik Marsman 1936 ([Translation](http://www.vlinder-01.dds.nl/cdr/poetry/memory_of_holland.htm))
+
+Onward and upward, Tot ziens!
+—Jasmine
