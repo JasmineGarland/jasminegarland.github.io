@@ -66,24 +66,27 @@ Research updates and publications are available on this page. You can view my [O
 ## **Publications**
 _Note: A "\*" indicates an undergraduate student I mentored._
 
- **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
+**Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
 
- **Garland, J.**, Baker, K., & Livneh, B. (2024). *Exploring the importance of Environmental Justice variables for predicting Energy Burden in the Contiguous United States.*  
-   *Cell Press: iScience* (accepted).
 
- **Garland, J.**, Windham, A., & Richardson, P. (2024). *Case Study Evaluation of HVAC Energy Usage Resulting from a Room Usage Calendar-based HVAC Scheduling Tool.* *The International Journal of Energy Management*, 6(4). ISSN: 2643-6787.
+**Garland, J.**, Baker, K., Rajagopalan, B., & Livneh, B. (2025). *Exploring the importance of environmental justice variables for predicting energy burden in the contiguous United States.* *Cell Press: iScience*, 28(6), 112559. [https://doi.org/10.1016/j.isci.2025.112559] (https://doi.org/10.1016/j.isci.2025.112559)
 
+**Garland, J.**, Baker, K., Livneh, B., Christie, I (2025). *Towards Proactive Grid Management: Weather-Aware Predictions for Power Disruptions. 2025 IEEE PES Innovative Smart Grid Technologies Europe 2025.* (**Accepted**)
+ 
 **Garland, J.**, Baker, K., & Livneh, B. (2023). *Weather-Induced Power Outage Prediction: A Comparison of Machine Learning Models.*  
    *2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, 1–6. [https://doi.org/10.1109/SmartGridComm57358.2023.10333953](https://doi.org/10.1109/SmartGridComm57358.2023.10333953)
 
 Winner, C\*., **Garland, J.**, Crozier, C., & Baker, K. (2023). Carbon Emissions Resulting from Different Power Flow Models for Dispatch.*  
    *2023 IEEE Power & Energy Society General Meeting (PESGM)*, 1–5. [https://doi.org/10.1109/PESGM52003.2023.10252655](https://doi.org/10.1109/PESGM52003.2023.10252655)
 
+**Garland, J.**, Windham, A., & Richardson, P. (2024). *Case Study Evaluation of HVAC Energy Usage Resulting from a Room Usage Calendar-based HVAC Scheduling Tool.* *The International Journal of Energy Management*, 6(4). ISSN: 2643-6787.
+
 Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **Garland, J.**, Florita, A., Henze, G., Sarkar, S., & Smith, J. (2021). *WHISPER: Wireless Home Identification and Sensing Platform for Energy Reduction.*  
    *Journal of Sensor and Actuator Networks*, 10(4), 71. [https://doi.org/10.3390/jsan10040071](https://doi.org/10.3390/jsan10040071)
 
-**Garland, J.**, Baker, K., Livneh, B., & Christie, I. (2025). *Towards Proactive Grid Management: Weather-Aware Predictions for Power Disruptions.*  
-   *IEEE PES Innovative Smart Grid Technologies (ISGT) Europe* (submitted - under review).
+
+**Garland, J.**, Baker, K.,  Livneh, B. & Balaji, R. (2025). *Learning Energy Burden Indicators for Data-Driven Policy Using
+Self-Organizing Maps*. *Environmental Research: Energy* (**Under Review**).
 
 
 **Garland, J.**, Balaji, R., Baker, K., Livneh, B. (2024) *Learning the Indicators of Energy Burden for Knowledge Informed Policy* NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning.
