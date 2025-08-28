@@ -69,7 +69,7 @@ _Note: A "\*" indicates an undergraduate student I mentored._
 **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
 
 
-**Garland, J.**, Baker, K., Rajagopalan, B., & Livneh, B. (2025). *Exploring the importance of environmental justice variables for predicting energy burden in the contiguous United States.* *Cell Press: iScience*, 28(6), 112559. [https://doi.org/10.1016/j.isci.2025.112559] (https://doi.org/10.1016/j.isci.2025.112559)
+**Garland, J.**, Baker, K., Rajagopalan, B., & Livneh, B. (2025). *Exploring the importance of environmental justice variables for predicting energy burden in the contiguous United States.* *Cell Press: iScience*, 28(6), 112559. [https://doi.org/10.1016/j.isci.2025.112559](https://doi.org/10.1016/j.isci.2025.112559)
 
 **Garland, J.**, Baker, K., Livneh, B., Christie, I (2025). *Towards Proactive Grid Management: Weather-Aware Predictions for Power Disruptions. 2025 IEEE PES Innovative Smart Grid Technologies Europe 2025.* (**Accepted**)
  
