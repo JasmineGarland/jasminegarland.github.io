@@ -7,7 +7,7 @@ layout: header_page
 
 <img src="assets/images/profile.png" alt="Descriptive text" style="float: right; width: 258px;">
 
-I'm **Jasmine**, a PhD student at the University of Colorado Boulder and a visiting researcher at **ETH Zürich's Energy Science Center – Power Systems and High Voltage Lab**.  
+I'm **Jasmine**, a PhD candidate at the University of Colorado Boulder and a visiting researcher at **ETH Zürich's Energy Science Center – Power Systems Lab**.  
 
 My research focuses on advancing **data-driven optimization** and **machine learning** methods to address complex challenges in power systems and support the transition to a more resilient and sustainable energy future.
 
