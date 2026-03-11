@@ -90,3 +90,4 @@ Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **
 
 **Garland, J.**, Balaji, R., Baker, K., Livneh, B. (2024) *Learning the Indicators of Energy Burden for Knowledge Informed Policy* NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning.
 
+**Garland, J.**, Crozier, C., Baker, (2026) *Carbon and Water Implications of Optimal Power Flow Modeling Choices in Large-Scale Electricity Dispatch* PowerUp Conference (**Under Review**).
