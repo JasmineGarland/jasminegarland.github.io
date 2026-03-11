@@ -69,7 +69,7 @@ _Note: A "\*" indicates an undergraduate student I mentored._
 **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
 
 **Garland, J.**, Baker, K.,  Livneh, B. & Balaji, R. (2026). *Learning Energy Burden Indicators for Data-Driven Policy Using
-Self-Organizing Maps*. *Environmental Research: Energy* [https://doi.org/10.1088/2753-3751/ae4ee9](https://doi.org/10.1088/2753-3751/ae4ee9)
+Self-Organizing Maps.*. *Environmental Research: Energy.* [https://doi.org/10.1088/2753-3751/ae4ee9](https://doi.org/10.1088/2753-3751/ae4ee9)
 
 
 **Garland, J.**, Baker, K., Rajagopalan, B., & Livneh, B. (2025). *Exploring the importance of environmental justice variables for predicting energy burden in the contiguous United States.* *Cell Press: iScience*, 28(6), 112559. [https://doi.org/10.1016/j.isci.2025.112559](https://doi.org/10.1016/j.isci.2025.112559)
@@ -88,6 +88,6 @@ Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **
    *Journal of Sensor and Actuator Networks*, 10(4), 71. [https://doi.org/10.3390/jsan10040071](https://doi.org/10.3390/jsan10040071)
 
 
-**Garland, J.**, Balaji, R., Baker, K., Livneh, B. (2024) *Learning the Indicators of Energy Burden for Knowledge Informed Policy* NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning.
+**Garland, J.**, Balaji, R., Baker, K., Livneh, B. (2024). *Learning the Indicators of Energy Burden for Knowledge Informed Policy* NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning.
 
-**Garland, J.**, Crozier, C., Baker, (2026) *Carbon and Water Implications of Optimal Power Flow Modeling Choices in Large-Scale Electricity Dispatch* PowerUp Conference (**Under Review**).
+**Garland, J.**, Crozier, C., Baker, (2026). *Carbon and Water Implications of Optimal Power Flow Modeling Choices in Large-Scale Electricity Dispatch.* PowerUp Conference (**Under Review**).
