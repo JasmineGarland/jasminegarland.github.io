@@ -53,12 +53,8 @@ By combining **machine learning**, **grid optimization**, and **climate data**, 
 ---
 
 I am excited to spend the Summer of 2026 as an [Energy and Environment Program](https://www.pnnl.gov/energy-and-environment-internship-program) PhD intern at the Pacific Northwest National Laboratory, where I will be working with the Electricity Infrastructure and Buildings Research Divison. I am also a recipient of the [University of Colorado Boulder Chancellors Postdoctoral Fellowship](https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship). Through this Fellowship I will begin my posttdoctoral studies with Professor [Rajagopalan Balaji](https://www.colorado.edu/ceae/rajagopalan-balaji) in the Fall of 2026.
-<!-- I am seeking postdoctoral research opportunities beginning in **Fall 2026** in the following areas:
 
-- Power system operation, control, and planning  
-- Renewable energy integration  
-- Machine learning for energy systems  
-- Energy sustainability and resilience   -->
+ ---
 
 Research updates and publications are available on this page. You can view my [ORCID profile](https://orcid.org/0000-0002-7966-8462) or [Google Scholar page](https://scholar.google.com/citations?user=KzpIf14AAAAJ&hl=en) for a complete list of papers.
 
