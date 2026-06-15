@@ -52,7 +52,7 @@ By combining **machine learning**, **grid optimization**, and **climate data**, 
 
 ---
 
-I am excited to spend the Summer of 2026 as an [Energy and Environment Program](https://www.pnnl.gov/energy-and-environment-internship-program) PhD intern at the Pacific Northwest National Laboratory, where I will be working with the Electricity Infrastructure and Buildings Research Divison. I am also a recipient of the [University of Colorado Boulder Chancellors Postdoctoral Fellowship](https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship). Through this Fellowship I will begin my posttdoctoral studies with Professor [Rajagopalan Balaji](https://www.colorado.edu/ceae/rajagopalan-balaji) in the Fall of 2026.
+I am excited to spend the Summer of 2026 as an [Energy and Environment Program](https://www.pnnl.gov/energy-and-environment-internship-program) PhD intern at the Pacific Northwest National Laboratory, where I will be working with the Electricity Infrastructure and Buildings Research Divison. I am also a recipient of the [University of Colorado Boulder Chancellors Postdoctoral Fellowship](https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship). Through this Fellowship I will begin my postdoctoral studies with Professor [Rajagopalan Balaji](https://www.colorado.edu/ceae/rajagopalan-balaji) in the Fall of 2026.
 
  ---
 
@@ -62,6 +62,8 @@ Research updates and publications are available on this page. You can view my [O
 
 ## **Publications**
 _Note: A "\*" indicates an undergraduate student I mentored._
+
+**Garland, J.**, Livneh, B., Baker, K. (2026). Weather-Driven Power Outage Prediction Using Transfer Learning and Interpretable Pattern Discovery. ACM Sustainability Week Companion '26: ACM Sustainability Week 2026, Banff, AB, Canada, June 2026, pp 1-10, doi:  10.1145/3765611.3815509 (will be online soon).
 
 **Garland, J.**, Baker, K., & Livneh, B. (2024). *The climate-energy nexus: A critical review of power grid components, extreme weather, and adaptation measures.* *Environmental Research: Infrastructure and Sustainability*, 4(3), 032002. [https://doi.org/10.1088/2634-4505/ad79dd](https://doi.org/10.1088/2634-4505/ad79dd)
 
@@ -73,8 +75,7 @@ Self-Organizing Maps.*. *Environmental Research: Energy.* [https://doi.org/10.10
 
 **Garland, J.**, Baker, K., Livneh, B., Christie, I (2025). *Towards Proactive Grid Management: Weather-Aware Predictions for Power Disruptions. 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), Valletta, Malta, 2025, pp. 1-5, [doi: 10.1109/ISGTEurope64741.2025.11305252](https://ieeexplore.ieee.org/abstract/document/11305252)
  
-**Garland, J.**, Baker, K., & Livneh, B. (2023). *Weather-Induced Power Outage Prediction: A Comparison of Machine Learning Models.*  
-   *2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, 1–6. [https://doi.org/10.1109/SmartGridComm57358.2023.10333953](https://doi.org/10.1109/SmartGridComm57358.2023.10333953)
+**Garland, J.**, Baker, K., & Livneh, B. (2023). *Weather-Induced Power Outage Prediction: A Comparison of Machine Learning Models.*  *2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, 1–6. [https://doi.org/10.1109/SmartGridComm57358.2023.10333953](https://doi.org/10.1109/SmartGridComm57358.2023.10333953)
 
 Winner, C\*., **Garland, J.**, Crozier, C., & Baker, K. (2023). Carbon Emissions Resulting from Different Power Flow Models for Dispatch.*  
    *2023 IEEE Power & Energy Society General Meeting (PESGM)*, 1–5. [https://doi.org/10.1109/PESGM52003.2023.10252655](https://doi.org/10.1109/PESGM52003.2023.10252655)
@@ -87,6 +88,4 @@ Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **
 
 **Garland, J.**, Balaji, R., Baker, K., Livneh, B. (2024). *Learning the Indicators of Energy Burden for Knowledge Informed Policy* NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning.
 
-**Garland, J.**, Crozier, C., Baker, K. (2026). *Carbon and Water Implications of Optimal Power Flow Modeling Choices in Large-Scale Electricity Dispatch.* PowerUp Conference (**Under Review**).
-
-**Garland, J.**, Livneh, B., Baker, K. (2026). *Weather-Driven Power Outage Prediction Using Transfer Learning and Interpretable Pattern Discovery.* ACM e-Energy Conference (**Under Review**).
+**Garland, J.**, Crozier, C., Baker, K. (2026). *Carbon and Water Implications of Optimal Power Flow Modeling Choices in Large-Scale Electricity Dispatch.* IEEE SmartGridComm 2026 (**Under Review**).
