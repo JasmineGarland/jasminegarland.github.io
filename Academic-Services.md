@@ -1,11 +1,7 @@
 ---
+layout: header_page
+---
 
-layout: page
-current: Academic-Services
-logo: assets/images/ghost.png
-class: page-template
-subclass: post page
--------------------
 
 ## Teaching & Mentoring
 
