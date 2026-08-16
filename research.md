@@ -91,7 +91,9 @@ Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **
 
 ## **Media**
 
-[https://theconversation.com/electric-companies-dont-need-to-black-out-customers-to-prevent-wildfires-here-are-3-relatively-fast-affordable-solutions-285229?utm_source=linkedin&utm_medium=linkedinbutton][The Conversation: Electric companies don't need to black out customers to prevent wildfires - here are 3 relatively fast, affordable solutions.] July, 2026.
+[https://theconversation.com/electric-companies-dont-need-to-black-out-customers-to-prevent-wildfires-here-are-3-relatively-fast-affordable-solutions-285229?utm_source=linkedin&utm_medium=linkedinbutton](The Conversation: Electric companies don't need to black out customers to prevent wildfires - here are 3 relatively fast, affordable solutions.) July, 2026.
 
-[https://www.phius.org/sites/default/files/2022-03/WUFI%20Passive%20Validation%20using%20ASHRAE%20140-2017.pdf][WUFI® Passive V.3.2.0.1 validation using
-ANSI/ASHRAE Standard 140-2017.] Oct, 2019.
+[https://www.phius.org/sites/default/files/2022-03/WUFI%20Passive%20Validation%20using%20ASHRAE%20140-2017.pdf](WUFI® Passive V.3.2.0.1 validation using
+ANSI/ASHRAE Standard 140-2017.) Oct, 2019.
+
+## **Presentations**
