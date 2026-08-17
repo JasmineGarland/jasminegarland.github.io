@@ -1,75 +1,75 @@
-# name: Build and deploy to GitHub Pages
-
-# on:
-#   push:
-#     branches: [ master ]
-#   pull_request:
-#     branches: [ master ]
-
-# jobs:
-#   github-pages:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: helaili/jekyll-action@v2
-#         with:
-#           token: ${{ secrets.GITHUB_TOKEN }}
-#           target_branch: 'gh-pages'
 name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
-  build:
+  github-pages:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
         with:
-          node-version: '10'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: 'gh-pages'
+# name: Build and deploy to GitHub Pages
 
-      - name: Install Node dependencies
-        run: npm install
+# on:
+#   push:
+#     branches: [ main ]
 
-      - name: Build CSS
-        run: npx gulp css
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
 
-      - name: Restore Gemfile
-        run: cp Gemfile.bak Gemfile
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+#       - name: Set up Node.js
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: '10'
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: ./_site
+#       - name: Install Node dependencies
+#         run: npm install
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+#       - name: Build CSS
+#         run: npx gulp css
 
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+#       - name: Restore Gemfile
+#         run: cp Gemfile.bak Gemfile
+
+#       - name: Setup Pages
+#         uses: actions/configure-pages@v5
+
+#       - name: Build with Jekyll
+#         uses: actions/jekyll-build-pages@v1
+#         with:
+#           source: ./
+#           destination: ./_site
+
+#       - name: Upload artifact
+#         uses: actions/upload-pages-artifact@v4
+#         with:
+#           path: ./_site
+
+#   deploy:
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     runs-on: ubuntu-latest
+#     needs: build
+
+#     steps:
+#       - name: Deploy to GitHub Pages
+#         id: deployment
+#         uses: actions/deploy-pages@v4
