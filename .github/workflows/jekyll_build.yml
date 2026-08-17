@@ -1,17 +1,48 @@
+# name: Build and deploy to GitHub Pages
+
+# on:
+#   push:
+#     branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
+
+# jobs:
+#   github-pages:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: helaili/jekyll-action@v2
+#         with:
+#           token: ${{ secrets.GITHUB_TOKEN }}
+#           target_branch: 'gh-pages'
 name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '10'
+
+      - name: Install Node dependencies
+        run: npm install
+
+      - name: Build CSS
+        run: npx gulp css
+
+      - name: Build and deploy Jekyll
+        uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
