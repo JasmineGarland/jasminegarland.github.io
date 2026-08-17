@@ -41,6 +41,9 @@ jobs:
       - name: Build CSS
         run: npx gulp css
 
+      - name: Restore Gemfile
+        run: cp Gemfile.bak Gemfile
+
       - name: Build and deploy Jekyll
         uses: helaili/jekyll-action@v2
         with:
