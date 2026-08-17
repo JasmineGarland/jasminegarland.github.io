@@ -97,7 +97,7 @@ body {
     }
     .home-template .site-nav {
         position: relative;
-        top: -20px;
+        top: 0px;
     }
 }
 
