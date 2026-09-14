@@ -96,4 +96,3 @@ Jacoby, M., Tan, S. Y., Katanbaf, M., Saffari, A., Saha, H., Kapetanovic, Z., **
 [https://www.phius.org/sites/default/files/2022-03/WUFI%20Passive%20Validation%20using%20ASHRAE%20140-2017.pdf](WUFI® Passive V.3.2.0.1 validation using
 ANSI/ASHRAE Standard 140-2017.) Oct, 2019.
 
-## **Presentations**
